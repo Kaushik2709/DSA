@@ -11,3 +11,4 @@
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [java](./Array/189_rotate-array_attempt2.java) | Medium | 2026-08-22 10:30 |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [java](./Array/217_contains-duplicate.java) | Easy | 2026-08-22 10:42 |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [java](./Array/136_single-number.java) | Easy | 2026-08-22 11:12 |
+| 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [java](./Array/349_intersection-of-two-arrays.java) | Easy | 2026-08-22 15:42 |
