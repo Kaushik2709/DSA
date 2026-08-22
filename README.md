@@ -6,4 +6,4 @@
 | 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [cpp](./String/10_regular-expression-matching_attempt2.cpp) | Hard | 2026-05-29 14:17 |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [cpp](./Array/11_container-with-most-water.cpp) | Medium | 2026-08-11 07:24 |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [cpp](./Array/26_remove-duplicates-from-sorted-array.cpp) | Easy | 2026-08-22 06:20 |
-| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [java](./Array/121_best-time-to-buy-and-sell-stock.java) | Easy | 2026-08-22 06:33 |
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [java](./Array/121_best-time-to-buy-and-sell-stock_attempt2.java) | Easy | 2026-08-22 06:33 |
