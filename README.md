@@ -10,3 +10,4 @@
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [java](./Array/122_best-time-to-buy-and-sell-stock-ii.java) | Medium | 2026-08-22 08:08 |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [java](./Array/189_rotate-array_attempt2.java) | Medium | 2026-08-22 10:30 |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [java](./Array/217_contains-duplicate.java) | Easy | 2026-08-22 10:42 |
+| 136 | [Single Number](https://leetcode.com/problems/single-number/) | [java](./Array/136_single-number.java) | Easy | 2026-08-22 11:12 |
