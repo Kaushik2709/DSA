@@ -15,3 +15,4 @@
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [java](./Array/66_plus-one.java) | Easy | 2026-08-28 04:09 |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [java](./Array/485_max-consecutive-ones.java) | Easy | 2026-08-28 07:23 |
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [java](./Array/1295_find-numbers-with-even-number-of-digits.java) | Easy | 2026-08-28 18:50 |
+| 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [java](./Array/977_squares-of-a-sorted-array.java) | Easy | 2026-08-28 19:25 |
