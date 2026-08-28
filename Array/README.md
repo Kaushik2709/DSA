@@ -10,3 +10,4 @@
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [java](./136_single-number.java) | Easy | 2026-08-22 11:12 |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [java](./349_intersection-of-two-arrays.java) | Easy | 2026-08-22 15:42 |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [java](./66_plus-one.java) | Easy | 2026-08-28 04:09 |
+| 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [java](./485_max-consecutive-ones.java) | Easy | 2026-08-28 07:23 |
