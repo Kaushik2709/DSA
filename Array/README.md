@@ -9,3 +9,4 @@
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [java](./217_contains-duplicate.java) | Easy | 2026-08-22 10:42 |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [java](./136_single-number.java) | Easy | 2026-08-22 11:12 |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [java](./349_intersection-of-two-arrays.java) | Easy | 2026-08-22 15:42 |
+| 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [java](./66_plus-one.java) | Easy | 2026-08-28 04:09 |
